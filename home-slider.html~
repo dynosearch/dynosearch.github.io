@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Dyno Search </title>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<link rel="icon" type="image/ico" href="http://foxthemes.com/web/html/napoli1.0/images/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+ 
+<link rel='stylesheet' id='napoli-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C300%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A400%2C100%2C300%2C700%2C900%2C300italic%7CLibre+Baskerville%3A400%2C400i%2C700%7CLora%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700%2C100%7CUbuntu%3A400%2C300%2C500%2C700%7CDroid+Serif%3A400%2C400italic%2C700%2C700italic%7CGreat+Vibes%7CMontserrat%3A400%2C700%7CNoto+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%26subset%3Dlatin%2Clatin-ext&#038;ver=1478770331' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/font-icons/font-awesome.min.css'/>
+<link rel='stylesheet' href='css/font-icons/pe-icon-7-stroke.css'/>
+ 
+<link rel='stylesheet' href='css/libs/bootstrap.min.css'/>
+<link rel='stylesheet' href='css/libs/animsition.min.css'/>
+<link rel='stylesheet' href='css/libs/jquery.flipster.css'/>
+<link rel='stylesheet' href='css/libs/monthly.css'/>
+<link rel='stylesheet' href='css/libs/default-skin.css'/>
+<link rel='stylesheet' href='css/libs/justifiedGallery.min.css'/>
+<link rel='stylesheet' href='css/libs/magnific-popup.css'/>
+<link rel='stylesheet' href='css/libs/photoswipe.css'/>
+<link rel='stylesheet' href='css/libs/animate.css'/>
+<link rel='stylesheet' href='css/main.css'/>
+</head>
+<body class=" animsition">
+<div class="main-wrapper ">
+<div class="  ">
+<div class="container no-padd">
+<div class="row">
+<div class="col-xs-12 no-padd-md no-padd-mob">
+<header class="right-menu">
+<a href="home-slider.html" class="logo">
+<span> Dno Search </span>
+</a>
+<a href="home-slider.html#" class="mob-nav">
+<i class="fa fa-bars"></i>
+</a>
+<nav id="topmenu">
+<ul id="menu-menu-1" class="menu">
+<li class="menu-item menu-item-has-children current-menu-item current_page_item current_page_parent"><a href="home-slider.html">Home</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="home-slider.html">Home </a></li>
+
+</ul>
+</li>
+
+<li class="menu-item menu-item-has-children "><a href="home-slider.html#">Cateogery </a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-grid.html"> Jobs </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Housing </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Services </a></li>
+<li class="menu-item "><a href="shop-grid.html"> XYZ </a></li>
+
+</ul>
+</li>
+<li class="menu-item menu-item-has-children "><a href="https://akhileshappala.wordpress.com/">Blog </a>
+
+</li>
+<li class="menu-item menu-item-has-children  "><a href="about-me.html">About us </a>
+
+</li>
+
+<li class="menu-item "><a href="contacts.html">Contact Us</a></li>
+<li class="menu-item menu-item-has-children  "><a href="index.html">Shop</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-1.html"> Shop Style One</a></li>
+
+</ul>
+</li>
+</ul>
+<div class="napoli-top-social">
+<span class="social-icon fa fa-share-alt" aria-hidden="true"></span>
+<ul class="social ">
+<li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://dribbble.com/" target="_blank"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+</li>
+</ul>
+</div>
+<div class="mini-cart-wrapper">
+<a class="napoli-shop-icon fa fa-shopping-cart" href="http://foxthemes.com/web/wp/napoli.1.6.0/cart/" title="View your shopping cart" aria-hidden="true">
+</a>
+<span class="sr-only">View your shopping cart</span>
+<div class="napoli_mini_cart">
+<ul class="cart_list product_list_widget">
+<li class="empty">No products in the cart.</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+</div>
+</div>
+</div>
+</div>
+<div class="banner-slider-wrap ">
+<div class="swiper-container" data-mode="vertical" data-autoplay="3000" data-loop="1" data-speed="500" data-slides-per-view="responsive" data-add-slides="1" data-xs-slides="1" data-sm-slides="1" data-md-slides="1" data-lg-slides="1">
+<div class="swiper-wrapper">
+<div class="swiper-slide">
+<div class="slider-banner full-height-hard">
+<div class="img-bg bg-cover">
+<img src="images/2016/11/slider_3.jpg" alt="" class="s-img-switch">
+</div>
+<div class="container no-padd-md">
+<div class="row">
+<div class="col-xs-12">
+<h4 class="subtitle">Photography</h4>
+<h1 class="title">Welcome To Your choice</h1>
+<p class="descr">The bird is powered by its own life and by its own motivation</p><a href="https://akhileshappala.wordpress.com/" class="a-btn ">LOOK BLOG</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="slider-banner full-height-hard">
+<div class="img-bg bg-cover">
+<img src="images/2016/11/slider_2.jpg" alt="" class="s-img-switch">
+</div>
+<div class="container no-padd-md">
+<div class="row">
+<div class="col-xs-12">
+<h4 class="subtitle">Design</h4>
+<h1 class="title">I believe in being an Innovator </h1>
+<p class="descr"> </p><a href="https://akhileshappala.wordpress.com/" class="a-btn ">LOOK BLOG</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="swiper-slide">
+<div class="slider-banner full-height-hard">
+<div class="img-bg bg-cover">
+<img src="images/2016/11/slider_1.jpg" alt="" class="s-img-switch">
+</div>
+<div class="container no-padd-md">
+<div class="row">
+<div class="col-xs-12">
+<h4 class="subtitle">Great Photography</h4>
+<h1 class="title">Yeah, You can Do That. </h1>
+<p class="descr"> You have to dream before , Your dreams can come true.</p><a href="https://akhileshappala.wordpress.com/" class="a-btn ">LOOK BLOG</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="pagination"></div>
+<div class="swiper-arrow-left"></div>
+<div class="swiper-arrow-right"><i class="fa fa-angle-double-down" aria-hidden="true"></i></div>
+</div>
+</div>
+<footer id="footer" class=" ">
+<div class="container no-padd-md">
+<div class="copyright">
+<a href="http://foxthemes.com" target="_blank"></a>.
+</div>
+<div class="social-links">
+<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
+<a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="https://dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a>
+</div>
+</div>
+</footer>
+</div>
+<script src='js/lib/jquery.min.js'></script>
+<script src='js/lib/monthly.js'></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src='js/lib/imagesloaded.pkgd.min.js'></script>
+<script src='js/lib/jquery.flexslider.js'></script>
+<script src='js/lib/jquery.magnific-popup.min.js'></script>
+<script src='js/lib/jquery.mb.YTPlayer.src.js'></script>
+<script src='js/lib/jquery.matchHeight-min.js'></script>
+<script src='js/lib/jquery.fitvids.js'></script>
+<script src='js/lib/isotope.pkgd.min.js'></script>
+<script src='js/lib/photoswipe-ui-default.min.js'></script>
+<script src='js/lib/photoswipe.min.js'></script>
+<script src='js/lib/modernizr.custom.js'></script>
+<script src='js/lib/modernizr-2.6.2.min.js'></script>
+<script src='js/lib/jquery-migrate.min.js'></script>
+<script src='js/lib/jquery.sliphover.min.js'></script>
+<script src='js/lib/jquery.justifiedGallery.min.js'></script>
+<script src='js/lib/jquery.gridrotator.js'></script>
+<script src='js/lib/jquery.animsition.min.js'></script>
+<script src='js/lib/jquery.stellar.js'></script>
+<script src='js/lib/idangerous.swiper.min.js'></script>
+<script src='js/lib/date.js'></script>
+<script src='js/lib/filmstrim.gallery.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src='js/lib/jquery.countdown.min.js'></script>
+<script src='js/lib/jquery.countTo.js'></script>
+<script src='js/lib/jquery.easings.min.js'></script>
+<script src='js/lib/jquery.flipster.min.js'></script>
+<script src='js/lib/jquery.multiscroll.min.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src="js/lib/scripts_gallery.js"></script>
+<script src='js/script.js'></script>
+</body>
+</html>

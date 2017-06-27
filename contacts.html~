@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Your choice </title>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<link rel="icon" type="image/ico" href="http://foxthemes.com/web/html/napoli1.0/images/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+ 
+<link rel='stylesheet' id='napoli-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C300%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A400%2C100%2C300%2C700%2C900%2C300italic%7CLibre+Baskerville%3A400%2C400i%2C700%7CLora%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700%2C100%7CUbuntu%3A400%2C300%2C500%2C700%7CDroid+Serif%3A400%2C400italic%2C700%2C700italic%7CGreat+Vibes%7CMontserrat%3A400%2C700%7CNoto+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%26subset%3Dlatin%2Clatin-ext&#038;ver=1478770331' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/font-icons/font-awesome.min.css'/>
+<link rel='stylesheet' href='css/font-icons/pe-icon-7-stroke.css'/>
+ 
+<link rel='stylesheet' href='css/libs/bootstrap.min.css'/>
+<link rel='stylesheet' href='css/libs/animsition.min.css'/>
+<link rel='stylesheet' href='css/libs/jquery.flipster.css'/>
+<link rel='stylesheet' href='css/libs/monthly.css'/>
+<link rel='stylesheet' href='css/libs/default-skin.css'/>
+<link rel='stylesheet' href='css/libs/justifiedGallery.min.css'/>
+<link rel='stylesheet' href='css/libs/magnific-popup.css'/>
+<link rel='stylesheet' href='css/libs/photoswipe.css'/>
+<link rel='stylesheet' href='css/libs/animate.css'/>
+<link rel='stylesheet' href='css/main.css'/>
+</head>
+<body class=" animsition">
+<div class="main-wrapper ">
+<div class="  ">
+<div class="container no-padd">
+<div class="row">
+<div class="col-xs-12 no-padd-md no-padd-mob">
+<header class="right-menu">
+<a href="home-slider.html" class="logo">
+<span> Your choice </span>
+</a>
+<a href="home-slider.html#" class="mob-nav">
+<i class="fa fa-bars"></i>
+</a>
+<nav id="topmenu">
+<ul id="menu-menu-1" class="menu">
+<li class="menu-item menu-item-has-children current-menu-item current_page_item current_page_parent"><a href="home-slider.html">Home</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="home-slider.html">Home </a></li>
+
+</ul>
+</li>
+
+<li class="menu-item menu-item-has-children "><a href="home-slider.html#">Cateogery </a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-grid.html"> Jobs </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Housing </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Services </a></li>
+<li class="menu-item "><a href="shop-grid.html"> XYZ </a></li>
+
+</ul>
+</li>
+<li class="menu-item menu-item-has-children "><a href="https://akhileshappala.wordpress.com/">Blog </a>
+
+</li>
+<li class="menu-item menu-item-has-children  "><a href="about-me.html">About us </a>
+
+</li>
+
+<li class="menu-item "><a href="contacts.html">Contact Us</a></li>
+<li class="menu-item menu-item-has-children  "><a href="index.html">Shop</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-1.html"> Shop Style One</a></li>
+
+</ul>
+</li>
+</ul>
+<div class="napoli-top-social">
+<span class="social-icon fa fa-share-alt" aria-hidden="true"></span>
+<ul class="social ">
+<li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://dribbble.com/" target="_blank"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+</li>
+</ul>
+</div>
+<div class="mini-cart-wrapper">
+<a class="napoli-shop-icon fa fa-shopping-cart" href="http://foxthemes.com/web/wp/napoli.1.6.0/cart/" title="View your shopping cart" aria-hidden="true">
+</a>
+<span class="sr-only">View your shopping cart</span>
+<div class="napoli_mini_cart">
+<ul class="cart_list product_list_widget">
+<li class="empty">No products in the cart.</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+</div>
+</div>
+</div>
+</div>
+<div class="container">
+<div class="hero">
+<div class="row margin-lg-40b">
+<div class="col-sm-12 ">
+<div class="row">
+<div 
+
+id="google-map" data-string="We Are There" data-lat="51.5255069" data-lng="-0.0836207" data-zoom="14" data-marker="https://www.google.co.in/maps/dir/Vijayawada/Vijayawada,+Andhra+Pradesh/@16.5104049,80.5744196,12z/data=!4m13!4m12!1m5!1m1!1s0x3a35eff9482d944b:0x939b7e84ab4a0265!2m2!1d80.6480153!2d16.5061743!1m5!1m1!1s0x3a35eff9482d944b:0x939b7e84ab4a0265!2m2!1d80.6480153!2d16.5061743"></div>
+<div class="contact-info">
+<div class="info-box">
+<div class="details">
+<h5 class="title">Address</h5>
+<h6>PVSIT  </h6>
+<h6>Vijayawada</h6>
+</div>
+</div>
+<div class="info-box">
+<div class="details">
+<h5 class="title">Phones</h5><a href="tel:+7895586985"></a><a href="tel:+878997992">+789 023 58 96</a>
+</div>
+</div>
+<div class="info-box">
+<div class="details">
+<h5 class="title">Emails</h5>
+<h6> akiakhilesh16@gmail.com</h6> 
+<h6> surajmaguluri66@gmail.com</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-12 ">
+<div role="form" class="wpcf7" lang="en-US" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="http://foxthemes.com/web/html/napoli1.0/mail.php" method="post" class="wpcf7-form js-contact-form">
+<div class="row">
+<div class="contact-form container-fluid no-padd-md">
+<div id="contact">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="title">Say hello</h2>
+<div class="contact-message"></div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-md-4">
+<span class="wpcf7-form-control-wrap">
+<input type="text" name="fields[name]" value="" size="40" id="name" required aria-invalid="false" placeholder="Name"/>
+</span>
+</div>
+<div class="col-xs-12 col-md-4">
+<span class="wpcf7-form-control-wrap email">
+<input type="email" name="fields[email]" value="" size="40" id="email" required aria-invalid="false" placeholder="Email"/>
+</span>
+</div>
+<div class="col-xs-12 col-md-4">
+<span class="wpcf7-form-control-wrap">
+<input type="text" name="fields[subject]" value="" size="40" id="subject" required aria-invalid="false" placeholder="Subject"/>
+</span>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12"><span class="wpcf7-form-control-wrap message"><textarea name="fields[text]" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required message" id="message" aria-invalid="false" placeholder="Message" required></textarea></span></div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<input type="submit" value="send message" class="wpcf7-form-control wpcf7-submit submit button" id="submit"/>
+</div>
+<div class="col-xs-12">
+<div class="ajax-result">
+<div class="success"></div>
+<div class="error"></div>
+</div>
+<div class="ajax-loader"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyA6M45oe9V8IfJfUB6x4k0FKhmEf58nJAs&#038;"></script>
+<footer id="footer" class=" ">
+<div class="container no-padd-md">
+<div class="copyright">
+      we always feel free to receive your messages
+</div>
+<div class="social-links">
+<a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"> </i></a>
+<a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-p"></i></a>
+<a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="https://dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a>
+</div>
+</div>
+</footer>
+</div>
+<script src='js/lib/jquery.min.js'></script>
+<script src='js/lib/monthly.js'></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src='js/lib/imagesloaded.pkgd.min.js'></script>
+<script src='js/lib/jquery.flexslider.js'></script>
+<script src='js/lib/jquery.magnific-popup.min.js'></script>
+<script src='js/lib/jquery.mb.YTPlayer.src.js'></script>
+<script src='js/lib/jquery.matchHeight-min.js'></script>
+<script src='js/lib/jquery.fitvids.js'></script>
+<script src='js/lib/isotope.pkgd.min.js'></script>
+<script src='js/lib/photoswipe-ui-default.min.js'></script>
+<script src='js/lib/photoswipe.min.js'></script>
+<script src='js/lib/modernizr.custom.js'></script>
+<script src='js/lib/modernizr-2.6.2.min.js'></script>
+<script src='js/lib/jquery-migrate.min.js'></script>
+<script src='js/lib/jquery.sliphover.min.js'></script>
+<script src='js/lib/jquery.justifiedGallery.min.js'></script>
+<script src='js/lib/jquery.gridrotator.js'></script>
+<script src='js/lib/jquery.animsition.min.js'></script>
+<script src='js/lib/jquery.stellar.js'></script>
+<script src='js/lib/idangerous.swiper.min.js'></script>
+<script src='js/lib/date.js'></script>
+<script src='js/lib/filmstrim.gallery.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src='js/lib/jquery.countdown.min.js'></script>
+<script src='js/lib/jquery.countTo.js'></script>
+<script src='js/lib/jquery.easings.min.js'></script>
+<script src='js/lib/jquery.flipster.min.js'></script>
+<script src='js/lib/jquery.multiscroll.min.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src="js/lib/scripts_gallery.js"></script>
+<script src='js/script.js'></script>
+</body>
+</html>

@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Your choice </title>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<link rel="icon" type="image/ico" href="http://foxthemes.com/web/html/napoli1.0/images/favicon.ico">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+ 
+<link rel='stylesheet' id='napoli-fonts-css' href='https://fonts.googleapis.com/css?family=Raleway%3A400%2C100%2C300%2C500%2C600%2C700%2C800%2C900%7CRoboto%3A400%2C100%2C300%2C700%2C900%2C300italic%7CLibre+Baskerville%3A400%2C400i%2C700%7CLora%3A400%2C700%7CRoboto+Slab%3A400%2C300%2C700%2C100%7CUbuntu%3A400%2C300%2C500%2C700%7CDroid+Serif%3A400%2C400italic%2C700%2C700italic%7CGreat+Vibes%7CMontserrat%3A400%2C700%7CNoto+Sans%3A400%2C700%2C400italic%2C700italic%7COpen+Sans%26subset%3Dlatin%2Clatin-ext&#038;ver=1478770331' type='text/css' media='all'/>
+<link rel='stylesheet' href='css/font-icons/font-awesome.min.css'/>
+<link rel='stylesheet' href='css/font-icons/pe-icon-7-stroke.css'/>
+ 
+<link rel='stylesheet' href='css/libs/bootstrap.min.css'/>
+<link rel='stylesheet' href='css/libs/animsition.min.css'/>
+<link rel='stylesheet' href='css/libs/jquery.flipster.css'/>
+<link rel='stylesheet' href='css/libs/monthly.css'/>
+<link rel='stylesheet' href='css/libs/default-skin.css'/>
+<link rel='stylesheet' href='css/libs/justifiedGallery.min.css'/>
+<link rel='stylesheet' href='css/libs/magnific-popup.css'/>
+<link rel='stylesheet' href='css/libs/photoswipe.css'/>
+<link rel='stylesheet' href='css/libs/animate.css'/>
+<link rel='stylesheet' href='css/main.css'/>
+</head>
+<body class=" animsition">
+<div class="main-wrapper ">
+<div class="  ">
+<div class="container no-padd">
+<div class="row">
+<div class="col-xs-12 no-padd-md no-padd-mob">
+<header class="right-menu">
+<a href="home-slider.html" class="logo">
+<span> Your choice </span>
+</a>
+<a href="home-slider.html#" class="mob-nav">
+<i class="fa fa-bars"></i>
+</a>
+<nav id="topmenu">
+<ul id="menu-menu-1" class="menu">
+<li class="menu-item menu-item-has-children current-menu-item current_page_item current_page_parent"><a href="home-slider.html">Home</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="home-slider.html">Home </a></li>
+
+</ul>
+</li>
+
+<li class="menu-item menu-item-has-children "><a href="home-slider.html#">Cateogery </a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-grid.html"> Jobs </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Housing </a></li>
+<li class="menu-item "><a href="shop-grid.html"> Services </a></li>
+<li class="menu-item "><a href="shop-grid.html"> XYZ </a></li>
+
+</ul>
+</li>
+<li class="menu-item menu-item-has-children "><a href="https://akhileshappala.wordpress.com/">Blog </a>
+
+</li>
+<li class="menu-item menu-item-has-children  "><a href="about-me.html">About us </a>
+
+</li>
+
+<li class="menu-item "><a href="contacts.html">Contact Us</a></li>
+<li class="menu-item menu-item-has-children  "><a href="index.html">Shop</a>
+<ul class="sub-menu">
+<li class="menu-item "><a href="shop-1.html"> Shop Style One</a></li>
+
+</ul>
+</li>
+</ul>
+<div class="napoli-top-social">
+<span class="social-icon fa fa-share-alt" aria-hidden="true"></span>
+<ul class="social ">
+<li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+</li>
+<li><a href="https://dribbble.com/" target="_blank"><i class="fa fa-dribbble" aria-hidden="true"></i></a>
+</li>
+</ul>
+</div>
+<div class="mini-cart-wrapper">
+<a class="napoli-shop-icon fa fa-shopping-cart" href="http://foxthemes.com/web/wp/napoli.1.6.0/cart/" title="View your shopping cart" aria-hidden="true">
+</a>
+<span class="sr-only">View your shopping cart</span>
+<div class="napoli_mini_cart">
+<ul class="cart_list product_list_widget">
+<li class="empty">No products in the cart.</li>
+</ul>
+</div>
+</div>
+</nav>
+</header>
+</div>
+</div>
+</div>
+</div>
+<div class="archive tax-product_cat term-main  woocommerce woocommerce-page">
+<div class="container no-padd">
+<div class="row">
+<div class="col-md-12 no-padd ">
+<div id="content" role="main">
+<ul class="products default gutt-col-2">
+
+<li class="col-md-6 post-1500 product type-product status-publish has-post-thumbnail product_cat-city product_cat-evening first instock sale shipping-taxable purchasable product-type-variable has-children">
+<div class="napoli-prod-list-image s-back-switch">
+<span class="onsale">Sale!</span>
+<img src="images/version1.6/product-6.jpg" class="s-img-switch wp-post-image" alt="product-7" title="product-7">
+<div class="product-links-wrapp">
+<div class="napoli-add-to-cart">
+<a rel="nofollow" href="shop-2.html" data-quantity="1" data-product_id="1500" data-product_sku="" class="button product_type_variable add_to_cart_button">Jobs</a> </div>
+<a href="shop-2.html" class="napoli-link">view </a>
+</div>
+</div>
+<div class="category-product">
+
+
+
+</li>
+<li class="col-md-6 post-1504 product type-product status-publish has-post-thumbnail product_cat-mood product_cat-scene  instock shipping-taxable purchasable product-type-variable has-children">
+<div class="napoli-prod-list-image s-back-switch">
+<img src="images/version1.6/product-5.jpg" class="s-img-switch wp-post-image" alt="product-8" title="product-8">
+<div class="product-links-wrapp">
+<div class="napoli-add-to-cart">
+<a rel="nofollow" href="shop-2.html" data-quantity="1" data-product_id="1504" data-product_sku="" class="button product_type_variable add_to_cart_button">Housing</a> </div>
+<a href="shop-2.html" class="napoli-link">view </a>
+</div>
+</div>
+<div class="category-product">
+
+</div>
+
+</li>
+
+
+
+
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<script src='js/lib/jquery.min.js'></script>
+<script src='js/lib/monthly.js'></script>
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src='js/lib/imagesloaded.pkgd.min.js'></script>
+<script src='js/lib/jquery.flexslider.js'></script>
+<script src='js/lib/jquery.magnific-popup.min.js'></script>
+<script src='js/lib/jquery.mb.YTPlayer.src.js'></script>
+<script src='js/lib/jquery.matchHeight-min.js'></script>
+<script src='js/lib/jquery.fitvids.js'></script>
+<script src='js/lib/isotope.pkgd.min.js'></script>
+<script src='js/lib/photoswipe-ui-default.min.js'></script>
+<script src='js/lib/photoswipe.min.js'></script>
+<script src='js/lib/modernizr.custom.js'></script>
+<script src='js/lib/modernizr-2.6.2.min.js'></script>
+<script src='js/lib/jquery-migrate.min.js'></script>
+<script src='js/lib/jquery.sliphover.min.js'></script>
+<script src='js/lib/jquery.justifiedGallery.min.js'></script>
+<script src='js/lib/jquery.gridrotator.js'></script>
+<script src='js/lib/jquery.animsition.min.js'></script>
+<script src='js/lib/jquery.stellar.js'></script>
+<script src='js/lib/idangerous.swiper.min.js'></script>
+<script src='js/lib/date.js'></script>
+<script src='js/lib/filmstrim.gallery.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src='js/lib/jquery.countdown.min.js'></script>
+<script src='js/lib/jquery.countTo.js'></script>
+<script src='js/lib/jquery.easings.min.js'></script>
+<script src='js/lib/jquery.flipster.min.js'></script>
+<script src='js/lib/jquery.multiscroll.min.js'></script>
+<script src='js/lib/foxlazy.js'></script>
+<script src="js/lib/scripts_gallery.js"></script>
+<script src='js/script.js'></script>
+</body>
+</html>
